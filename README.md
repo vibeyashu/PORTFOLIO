@@ -220,3 +220,5 @@ tapping the screen once should trigger the permission prompt.
 The app is not a PWA and doesn't work offline itself in the sense of "no
 network to load it" — the *transfer* is what's offline. You still need to
 load the page once (dev server, or a static host) before pairing devices.
+#   P O R T F O L I O  
+ 
